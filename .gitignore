@@ -1,0 +1,16 @@
+*.pdf
+*.txt
+*.json
+*.env
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyc~
+*.pyo~
+*.pyd~
+*.pyw~
+
+.env
